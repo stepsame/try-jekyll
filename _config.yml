@@ -1,16 +1,16 @@
 # Site settings
 title: stepsame's blog
-email: zetsu@domain.com
+email: 
 description: 试一试静态博客
 baseurl: "/try-jekyll"
 url: ""
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
-  url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  name     : 'stepsame'
+  email    : 
+  url      : 
+  facebook : 
+  twitter  : 
 
 github: https://github.com/nandomoreirame/zetsu
 disqus_shortname: "fernandomoreira"
