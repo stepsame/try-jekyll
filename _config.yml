@@ -3,7 +3,7 @@ title: stepsame's blog
 email: zetsu@domain.com
 description: 试一试静态博客
 baseurl: "/try-jekyll"
-url: ""
+url: "http://stepsame.github.io/try-jekyll"
 
 author:
   name     : 'Fernando Moreira'
